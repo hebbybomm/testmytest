@@ -1,3 +1,3 @@
 # testmytest
 testtttt
-[https://www.paypal.me/octocat, octocat.com]
+[octocat.com](https://www.paypal.me/octocat)
